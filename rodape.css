@@ -1,0 +1,43 @@
+footer {
+  background-color: #5450ad;
+  height: 60px;
+  width: 100%;
+  margin-top: auto;
+}
+
+footer p {
+  font-size: 0.8rem;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+@media (max-width: 414px) {
+  footer {
+    width: 414px;
+  }
+}
+
+@media (max-width: 390px) {
+  footer {
+    width: 390px;
+  }
+}
+@media (max-width: 360px) {
+  footer {
+    width: 360px;
+  }
+}
+
+@media (max-width: 375px) {
+  footer {
+    width: 375px;
+  }
+}
+
+@media (max-width: 280px) {
+  footer {
+    width: 280px;
+  }
+}

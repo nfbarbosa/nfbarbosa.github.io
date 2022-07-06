@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nativsite-staging-234329-authRole",
+      "UnauthRoleArn": "arn:aws:iam::095789570654:role/amplify-nativsite-staging-234329-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::095789570654:role/amplify-nativsite-staging-234329-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nativsite-staging-234329-deployment",
+      "UnauthRoleName": "amplify-nativsite-staging-234329-unauthRole",
+      "StackName": "amplify-nativsite-staging-234329",
+      "StackId": "arn:aws:cloudformation:us-east-1:095789570654:stack/amplify-nativsite-staging-234329/d16b8d90-d95f-11ec-b415-0ab351b839ab",
+      "AmplifyAppId": "d2nih37dqx5mmo"
+    }
+  }
+}
